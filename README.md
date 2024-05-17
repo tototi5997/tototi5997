@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning web3.js
+- 📫 How to reach me: 873440829@qq.com
+- 😄 My interest: frontend, algorithm, type-challenge
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tototi5997&show_icons=true&theme=vue-dark&count_private=false)
+
+
 <!--
 **tototi5997/tototi5997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
